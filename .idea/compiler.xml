@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservice-article-service" />
+        <module name="microservice-bill-service" />
+        <module name="microservice-bill-service (1)" />
+        <module name="microservice-collection-service" />
+        <module name="microservice-configuration-service" />
+        <module name="microservice-configuration-service (1)" />
+        <module name="microservice-food-service" />
+        <module name="microservice-fundation-ehcache" />
+        <module name="microservice-fundation-mq" />
+        <module name="microservice-notification-service" />
+        <module name="microservice-order-service" />
+        <module name="microservice-registration-center" />
+        <module name="microservice-task-service" />
+        <module name="microservice-tool-service" />
+        <module name="microservice-user-service" />
+        <module name="registration-center" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="microservice-article-service" target="1.8" />
+      <module name="microservice-bill-service" target="1.8" />
+      <module name="microservice-collection-service" target="1.8" />
+      <module name="microservice-configuration-service" target="1.8" />
+      <module name="microservice-food-service" target="1.8" />
+      <module name="microservice-fundation-ehcache" target="1.8" />
+      <module name="microservice-fundation-mq" target="1.8" />
+      <module name="microservice-mvn" target="1.6" />
+      <module name="microservice-notification-service" target="1.8" />
+      <module name="microservice-order-service" target="1.8" />
+      <module name="microservice-registration-center" target="1.6" />
+      <module name="microservice-task-service" target="1.8" />
+      <module name="microservice-tool-service" target="1.8" />
+      <module name="microservice-user-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

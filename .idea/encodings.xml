@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microservice-article-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-bill-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-collection-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-configuration-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-food-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-fundation-ehcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-fundation-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-mvn" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-notification-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-privoder-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-registration-center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-task-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-tool-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-user-service" charset="UTF-8" />
+  </component>
+</project>

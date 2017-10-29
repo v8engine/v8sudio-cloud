@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/microservice-article-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-bill-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-collection-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-configuration-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-food-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-notification-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-registration-center" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-task-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-tool-service" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice-user-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservice-article-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-bill-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-configuration-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-food-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-fundation-ehcache/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-fundation-mq/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-notification-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-registration-center/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-task-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-tool-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-collection-service/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-mvn/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

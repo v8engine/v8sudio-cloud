@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-article-service/microservice-article-service.iml" filepath="$PROJECT_DIR$/microservice-article-service/microservice-article-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-bill-service/microservice-bill-service.iml" filepath="$PROJECT_DIR$/microservice-bill-service/microservice-bill-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-collection-service/microservice-collection-service.iml" filepath="$PROJECT_DIR$/microservice-collection-service/microservice-collection-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-configuration-service/microservice-configuration-service.iml" filepath="$PROJECT_DIR$/microservice-configuration-service/microservice-configuration-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-food-service/microservice-food-service.iml" filepath="$PROJECT_DIR$/microservice-food-service/microservice-food-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-fundation-ehcache/microservice-fundation-ehcache.iml" filepath="$PROJECT_DIR$/microservice-fundation-ehcache/microservice-fundation-ehcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-fundation-mq/microservice-fundation-mq.iml" filepath="$PROJECT_DIR$/microservice-fundation-mq/microservice-fundation-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-mvn/microservice-mvn.iml" filepath="$PROJECT_DIR$/microservice-mvn/microservice-mvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-notification-service/microservice-notification-service.iml" filepath="$PROJECT_DIR$/microservice-notification-service/microservice-notification-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-order-service/microservice-order-service.iml" filepath="$PROJECT_DIR$/microservice-order-service/microservice-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-registration-center/microservice-registration-center.iml" filepath="$PROJECT_DIR$/microservice-registration-center/microservice-registration-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-task-service/microservice-task-service.iml" filepath="$PROJECT_DIR$/microservice-task-service/microservice-task-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-tool-service/microservice-tool-service.iml" filepath="$PROJECT_DIR$/microservice-tool-service/microservice-tool-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-user-service/microservice-user-service.iml" filepath="$PROJECT_DIR$/microservice-user-service/microservice-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/v8studioProject.iml" filepath="$PROJECT_DIR$/v8studioProject.iml" />
+    </modules>
+  </component>
+</project>
